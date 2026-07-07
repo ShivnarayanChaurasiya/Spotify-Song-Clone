@@ -26,7 +26,7 @@ Through this project, I improved my understanding of:
 
 ## 🌐 Live Demo
 
-👉 **GitHub Pages:
+👉 **GitHub Pages:https://shivnarayanchaurasiya.github.io/Spotify-Song-Clone/
 
 ## 📌 Future Improvements
 
