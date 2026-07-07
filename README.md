@@ -24,6 +24,10 @@ Through this project, I improved my understanding of:
 * Responsive Web Design
 * Project Structure and UI Development
 
+  ## 📸 Preview
+![Uploading Screenshot (112).png…]()
+
+
 ## 🌐 Live Demo
 
 👉 **GitHub Pages:https://shivnarayanchaurasiya.github.io/Spotify-Song-Clone/
