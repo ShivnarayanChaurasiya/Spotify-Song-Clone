@@ -25,7 +25,8 @@ Through this project, I improved my understanding of:
 * Project Structure and UI Development
 
   ## 📸 Preview
-![Uploading Screenshot (112).png…]() 
+  <img width="1920" height="1080" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/26b26ed1-f22b-415c-a895-379ab57f9fd1" />
+
 
 
 ## 🌐 Live Demo
